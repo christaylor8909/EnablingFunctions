@@ -1,0 +1,115 @@
+Question,Answer
+Join by Text,Send fnce30001sm1 to 22333
+The study of how non-rational psychology influences,"Investor behaviour, and"
+"Investor behaviour, and",(Possibly) market outcomes
+(Possibly) market outcomes,If investors have irrational psychological biases:
+If investors have irrational psychological biases:,Many of our classical economic predictions will not work
+Many of our classical economic predictions will not work,It can be damaging for investor wealth
+It can be damaging for investor wealth,"These biases might influence asset prices, but only if:"
+"These biases might influence asset prices, but only if:",investors’ behavioural biases point in the same direction
+investors’ behavioural biases point in the same direction,the costs of arbitrageurs trading against them are too high
+Rational vs. Behavioural Finance,Behavioural Finance is a misnomer
+Behavioural Finance is a misnomer,“Not-fully rational” agent finance
+“Not-fully rational” agent finance,"By “rational” agent, we mean:"
+"By “rational” agent, we mean:","People evaluate all their options, then make consistent and optimal choices"
+"People evaluate all their options, then make consistent and optimal choices","E.g., if A > B and B > C, then A > C"
+Goal for this lecture,To examine the impact of behavioural biases on trading behaviour
+To examine the impact of behavioural biases on trading behaviour,To see whether we ourselves are biased
+To see whether we ourselves are biased,To look at some of the evidence and problems when looking for evidence
+To look at some of the evidence and problems when looking for evidence,of behavioural biases in stock prices.
+of behavioural biases in stock prices.,But first… are we even basically rational?
+But first… are we even basically rational?,"For example, do we have preferences about all options?"
+"For example, do we have preferences about all options?","If A > B and B > C, then A > C?"
+Do people always make a rational decision over a range of alternatives?,Choice “overdose” & paralysis
+Choice “overdose” & paralysis,"Jams: More people sample w/ 24 jams, but fewer buy (Iyengar-Lepper 00)"
+"Jams: More people sample w/ 24 jams, but fewer buy (Iyengar-Lepper 00)","Firms w/ 2 funds available, 75% participate; >40 funds, only 65%"
+complexity?),1/n heuristic (naïve diversification)
+1/n heuristic (naïve diversification),Choices of retirement plans [Benartzi-Thaler 01]
+Choices of retirement plans [Benartzi-Thaler 01],"Equal-spreading heuristic can lead to too much stock, because more stock"
+"Equal-spreading heuristic can lead to too much stock, because more stock",plans are often offered in retirement plans
+Bet 1: I will give you $100 if you pick a red ball.,Which urn would you prefer to pick from (A: 50/50; B: ?)
+Which urn would you prefer to pick from (A: 50/50; B: ?),Bet 2: I will give you $100 if you pick a black ball.
+Bet 2: I will give you $100 if you pick a black ball.,Which urn would you prefer to pick from (A: 50/50; B: ?)
+Most people: Pick Urn A both times,But this is logically inconsistent
+But this is logically inconsistent,"For Bet 1, you’d pick A if you thought A had more red balls than B"
+"For Bet 1, you’d pick A if you thought A had more red balls than B","For Bet 2, you’d pick A if you thought A had more black balls than B"
+"For Bet 2, you’d pick A if you thought A had more black balls than B",But A cannot have both more red and more black balls than B
+But A cannot have both more red and more black balls than B,People are ambiguity averse: they prefer bets with known probabilities to those
+People are ambiguity averse: they prefer bets with known probabilities to those,with unknown probabilities
+Main idea: Investors are loss averse,"The pain from a $1,000 loss is greater than the joy from a $1,000 gain"
+"The pain from a $1,000 loss is greater than the joy from a $1,000 gain","If you’ve ever been to casino (or even in your own investing), you may know the"
+"If you’ve ever been to casino (or even in your own investing), you may know the",feeling of trying to break even after a loss
+Loss Aversion is probably hard-,wired in our brains
+wired in our brains,"Capuchin monkeys, taught to trade tokens for food, respond rationally price and"
+Increases in prices lead the monkeys to choose substitutes,"But when faced with gambles, they suffer from reference dependent"
+"But when faced with gambles, they suffer from reference dependent",preferences and loss aversion.
+more grapes to,From Laurie Santos’s 2010 Ted Talk: A monkey economy as irrational as ours
+Safe Guy Risky Guy,Always gives 1 more grape
+Safe Guy Risky Guy,"Sometimes gives 1 more,"
+The Monkeys (like people) usually,play it safe
+losses?,The Monkeys Take The
+The Monkeys Take The,Risky Choice this time
+“Disposition Effect”: The tendency for investors to hold loser stocks too long and,to sell winner stocks too early
+to sell winner stocks too early,Follows from Prospect Theory
+Follows from Prospect Theory,Shefrin and Statman (1985): Show this effect exists with evidence from
+Shefrin and Statman (1985): Show this effect exists with evidence from,mutual fund redemptions
+mutual fund redemptions,Odean (1998): Confirm this effect exists using anonymized individual trader
+"Barberis and Xiong (2009): if momentum exists, the disposition effect is the",opposite of the optimal strategy
+A “sunk cost” is an economic concept which refers to a cost that has already,been paid and cannot be recovered
+been paid and cannot be recovered,Suppose you paid $500 for a ticket to see your favourite band
+Suppose you paid $500 for a ticket to see your favourite band,"On the day of the concert, you fall dreadfully ill, and you know that going to"
+"On the day of the concert, you fall dreadfully ill, and you know that going to",the concert will be more painful than staying home
+the concert will be more painful than staying home,But you’ve already paid for the ticket. Would you still go?
+But you’ve already paid for the ticket. Would you still go?,Moral of the story (for investing): the price at which you paid for an asset should
+Moral of the story (for investing): the price at which you paid for an asset should,not affect your willingness to sell it today
+not affect your willingness to sell it today,But of course it does!
+Apophenia: the tendency to perceive a connection or meaningful pattern,between unrelated or random things
+between unrelated or random things,"With stocks, it is incredibly tempting to try to predict prices based on the recent"
+Try to predict the price of Bitcoin,Link to live Binance Bitcoin exchange page
+"“Confirmation bias is the tendency to search for, interpret, favor, and recall",information in a way that confirms or supports one’s prior beliefs or values.”
+This happens ALL THE TIME in all aspects of life,Very dangerous with investments!
+"Experiential Bias, Recency Bias",Experiential Bias: The tendency to overweight outcomes that one has
+Investors who experienced a stock market crash tend to be more pessimistic,than those who haven’t
+than those who haven’t,Recency bias: The tendency to overweight the probabilities of events which
+Recency bias: The tendency to overweight the probabilities of events which,have happened recently
+LOTS of papers on this phenomenon,Barber and Odean (2008):
+Barber and Odean (2008):,Individual investors tend to buy high-attention stocks (stocks that would
+Individual investors tend to buy high-attention stocks (stocks that would,have been in the news prominently)
+have been in the news prominently),Institutional investors are less influenced by these stocks
+Della Vigna and Pollet (2006),Markets are less responsive to earnings surprises on Fridays than during the
+Markets are less responsive to earnings surprises on Fridays than during the,rest of the week
+rest of the week,Hirshleifer et al (2007)
+Hirshleifer et al (2007),Attention to announcements lower on days when more announcements take
+Attention to announcements lower on days when more announcements take,Cohen and Frazzini (2006)
+Cohen and Frazzini (2006),Stocks of supplier companies decline 1-3 months later after bad earnings
+Stocks of supplier companies decline 1-3 months later after bad earnings,news from companies they supply
+Information vs “news”:,News that wasn’t news
+News that wasn’t news,Attention to NYTimes story about cancer drug moves a stock (Huberman-Regev
+What Happened?,November 1997 the journal Nature published an article about a new cancer-
+November 1997 the journal Nature published an article about a new cancer-,cure break through by ENMD.
+cure break through by ENMD.,4 May 1998 the New York Times repeats the story
+4 May 1998 the New York Times repeats the story,The entire NASDAQ biotech index excluding ENMD went up 7% at the
+12 November 1998 the Wall Street Journal reports that other labs were,unable to replicate the findings.
+unable to replicate the findings.,Price still 2x the 1 May 1998 price
+More Limited Attention?,Zoom Technologies (ZTNO) versus Zoom Video Communications (ZM)
+Zoom Technologies (ZTNO) versus Zoom Video Communications (ZM),ZTNO was a penny stock (trading near $0.01) trading for many years
+ZTNO was a penny stock (trading near $0.01) trading for many years,ZM is the maker of the videoconferencing software we all know
+ZM is the maker of the videoconferencing software we all know,ZM was first traded publicly on 18 April 2019
+Old Zoom (ZTNO),New Zoom (ZM)
+Mental Accounting: treating different sources of money differently,Consumer: being conservative with your wages but extravagant with a bonus
+Taking more risks with one investment account but being more conservative,with your retirement account
+with your retirement account,Having a diversified portfolio and selling the “loser” stocks
+Brad Barber and Terrance Odean,“Trading Is Hazardous to Your Wealth: The Common Stock Investment
+“Trading Is Hazardous to Your Wealth: The Common Stock Investment,"Performance of Individual Investors”, 2000"
+"Performance of Individual Investors”, 2000",Investors who trade more earn lower returns
+Investors who trade more earn lower returns,"“Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment”,"
+"“Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment”,","Men trade 45% more than women, and their net returns are 0.94% worse"
+"Men trade 45% more than women, and their net returns are 0.94% worse",per year due to their trading
+Investors are not the joyless robots that economists assume in their models,"People have cognitive biases, and these biases are reflected in how they"
+"People have cognitive biases, and these biases are reflected in how they",Efficient Market Believers
+Efficient Market Believers,"Even if all investors are not rational, competition amongst investors makes"
+"Limits to arbitrage (e.g., margining requirements, rebate rates) mean that",competition cannot make markets as efficient as EM believers claim
+Key Questions from this Module,What types of biases and non-rational decision-making processes affect
+individuals?,Are people rational (consistent) in their choices?
+Are people rational (consistent) in their choices?,What is loss aversion? How does loss aversion affect investment decisions?
+What is loss aversion? How does loss aversion affect investment decisions?,What does “limited attention” mean in the context of investors?
